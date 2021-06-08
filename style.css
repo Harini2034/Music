@@ -1,0 +1,144 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#Sabrina
+{
+    box-shadow: 10px 10px 10px aqua;
+    background-color: skyblue;
+    border-radius: 15px;
+    border-color: none;
+    font-family: 'Pacifico', cursive;
+    width: 25%;
+}
+
+#Selena
+{
+    box-shadow: 10px 10px 10px deeppink;
+    background-color: palevioletred ;
+    border-radius: 15px;
+    border-color: none;
+    font-family: 'Pacifico', cursive;
+    width: 25%;
+}
+
+#Justin
+{
+    box-shadow: 10px 10px 10px burlywood;
+    background-color: orange;
+    border-radius: 15px;
+    border-color: none;
+    font-family: 'Pacifico', cursive;
+    width: 25%;
+}
+
+#Hailey
+{
+    box-shadow: 10px 10px 10px red;
+    background-color: orangered;
+    border-radius: 15px;
+    border-color: none;
+    font-family: 'Pacifico', cursive;
+    width: 25%;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
+
+#heading
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    width: 50%;
+    margin: 0px;
+    color: rgb(255, 0, 119);
+    text-shadow: 5px 5px 5px violet;
+}
+
+#letters
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat;
+}
+
+#love_myself
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#starving
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#sorry
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#what
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#intentions
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#woves
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#lose
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#look
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#run
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#why
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
+
+#on
+{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-shadow: 5px 5px 5px wheat; 
+}
